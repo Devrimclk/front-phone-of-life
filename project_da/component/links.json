@@ -1,0 +1,30 @@
+{
+    "links": [
+        {
+            "label": "Home",
+            "href": "/"
+        },
+        {
+            "label": "Store",
+            "href": "/products"
+        },
+        {
+            "label": "Account",
+            "href": "/login-page"
+        },
+        {
+            "label": "Register",
+            "href": "/register"
+        }
+        ,
+        {
+             "label": "Help",
+             "href": "/about"
+         }
+        ,
+       {
+            "label": "Cart",
+            "href": "/cart"
+        } 
+    ]
+}
